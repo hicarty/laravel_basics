@@ -76,6 +76,7 @@
     <div class="content">
         <div class="title m-b-md">
             Laravel Basics
+            {{ 2 == 3 ? "Two" : "not" }}
         </div>
     </div>
 </div>
